@@ -4,15 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I am Pradyumna Shembekar.
+I am currently working at ClearStack, Inc. as a Ruby developer. Most of the
+time you'll find me on the terminal.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Currently, I am working on [Advent of Code](https://adventofcode.com/) problems.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I use vim to write code, draft ideas, and create grocery lists.
 
+I like to automate menial tasks, hence I love aliasing and bash functions. (I
+may spend a lot of time on automating a small repetitive task.)
 
-[jekyll-organization]: https://github.com/jekyll
+Because I am a millenial, here is my social precence.
+
+[GitHub](https://github.com/pradyumna2905) &middot;
+[GitLab](https://gitlab.com/pradyumna2905) &middot;
+[Quora](https://www.quora.com/profile/Pradyumna-Shembekar)

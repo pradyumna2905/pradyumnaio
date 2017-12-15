@@ -16,6 +16,7 @@ may spend a lot of time on automating a small repetitive task.)
 
 Because I am a millenial, here is my social precence.
 
-[GitHub](https://github.com/pradyumna2905) &middot;
-[GitLab](https://gitlab.com/pradyumna2905) &middot;
-[Quora](https://www.quora.com/profile/Pradyumna-Shembekar)
+<a href="https://github.com/pradyumna2905" target="_blank">GitHub</a> &middot;
+<a href="https://gitlab.com/pradyumna2905" target="_blank">GitLab</a> &middot;
+<a href="https://www.quora.com/profile/Pradyumna-Shembekar" target="_blank">Quora</a> &middot;
+<a href="https://www.linkedin.com/in/pradyumnashembekar/" target="_blank">LinkedIn</a>

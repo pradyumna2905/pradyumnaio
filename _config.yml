@@ -6,8 +6,11 @@ title: Pradyumna
 email: pradyumna2905@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software developer
+
 baseurl: /
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://fullstackpd.com"
+
+permalink: "/:title"
 
 # Build settings
 theme: minima
